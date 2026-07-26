@@ -1,0 +1,20 @@
+{
+  "name": "siyuan-gantt-widget",
+  "author": "Huture",
+  "url": "https://github.com/Husense6/siyuan-gantt-widget",
+  "version": "0.12.7",
+  "minAppVersion": "3.7.3",
+  "displayName": {
+    "default": "Database Gantt Widget",
+    "zh-CN": "数据库甘特图挂件"
+  },
+  "description": {
+    "default": "Embed a configurable SiYuan database Gantt chart directly in a document.",
+    "zh-CN": "在思源文档中直接嵌入可配置的数据库甘特图。"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh-CN": "README.md"
+  },
+  "keywords": ["gantt", "database", "widget", "甘特图", "数据库", "挂件"]
+}
