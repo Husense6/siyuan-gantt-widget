@@ -2,6 +2,16 @@
 
 把思源数据库作为甘特图直接嵌入文档。配置保存在挂件块的自定义属性中，每个挂件实例可以连接不同数据库、使用不同字段。
 
+## 界面预览
+
+### 周视图
+
+![数据库甘特图挂件周视图](https://github.com/Husense6/siyuan-gantt-widget/raw/main/preview.png)
+
+### 月视图
+
+![数据库甘特图挂件月视图](https://github.com/Husense6/siyuan-gantt-widget/raw/main/preview-month.png)
+
 ## 安装
 
 1. 将整个 `siyuan-gantt-widget` 文件夹复制到 `{工作空间}/data/widgets/`。
